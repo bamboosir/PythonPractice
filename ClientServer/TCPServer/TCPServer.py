@@ -31,7 +31,7 @@ while True:
                 tcpCliSock.send(data.encode(encoding='utf-8'))
                 break
 
-print('finish')
+print('fish')
 
 tcpCliSock.close()
 tcpSerSock.close()
