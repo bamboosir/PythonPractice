@@ -27,7 +27,8 @@ while True:
         break
     print(ctime(),'[recv]',data)
 
-
+'recv from '
+print('connect finish')
 
 tcpClickSock.close()
 
