@@ -5,7 +5,7 @@
 from socket import *
 from time import ctime
 
-HOST = '192.168.0.105'
+HOST = '192.168.0.108'
 PORT = 21567
 BUFSIZ = 1024
 ADDR = (HOST, PORT)
